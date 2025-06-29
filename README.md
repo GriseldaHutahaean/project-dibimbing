@@ -51,7 +51,9 @@ Sumber dataset:
     D (Kurang): 40–59
     E (Sangat Kurang): < 40
 
-📄 File: `intro_to_python_.py`
+📄 File      : `intro_to_python_.py`
+
+🔗 gcollab   : [https://colab.research.google.com/drive/1_DPAZc0r0psWe1PiKWE3mvya3hIWOwQP?usp=sharing]
 
 #### 2. EDA: Kecanduan Media Sosial
 
