@@ -18,7 +18,7 @@ Proyek ini merupakan tugas portofolio dari program pelatihan **Dibimbing.id**, y
 
 Tugas dikerjakan secara individual dengan menggunakan Google Colab sebagai platform analisis. Dataset diunduh dari Kaggle dan diproses menggunakan library Python seperti Pandas, Matplotlib, dan Seaborn.  
 Proyek ini terdiri dari dua file utama:  
-- Notebook Python dasar (`intro_to_python.py`)  
+- Notebook Python dasar (`intro_to_python_.py`)  
 - Notebook EDA (`EDA-socialmediaaddiction.ipynb`)
 
 ---
@@ -51,7 +51,7 @@ Sumber dataset:
     D (Kurang): 40–59
     E (Sangat Kurang): < 40
 
-📄 File: `intro_to_python.py`
+📄 File: `intro_to_python_.py`
 
 #### 2. EDA: Kecanduan Media Sosial
 
