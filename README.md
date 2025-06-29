@@ -84,17 +84,18 @@ Sumber dataset:
    Menggunakan `cel.describe()` untuk melihat nilai minimum, maksimum, rata-rata, dan distribusi dari kolom numerik.
 
 5. **Analisis Univariate (Satu Variabel)**  
-   - Histogram untuk:  
-     `Time spent on social media`, `Addiction score`, `Daily usage`  
-   - Countplot untuk `Gender`
+   Histogram untuk:  `Time spent on social media`, `Addiction score`,
+                     `Daily usage`  
 
-6. **Analisis Bivariate (Dua Variabel)**  
-   - Boxplot: `Gender vs Addiction Score`  
-   - Scatterplot:  
-     - `Daily usage vs Addiction Score`  
-     - `Time spent on social media vs Addiction Score`
+   Countplot untuk `Gender`
 
-7. **Validasi Duplikat**  
+7. **Analisis Bivariate (Dua Variabel)**  
+     Boxplot: `Gender vs Addiction Score`  
+     Scatterplot:  
+      1. `Daily usage vs Addiction Score`  
+      2. Time spent on social media vs Addiction Score`
+
+8. **Validasi Duplikat**  
    Data dicek menggunakan `cel.duplicated()`  
    **Hasil:** Tidak ditemukan data duplikat.
 ---
