@@ -62,8 +62,13 @@ Sumber dataset:
 - Eksplorasi korelasi antar variabel (durasi penggunaan vs skor kecanduan)
 - Analisis pola berdasarkan usia dan jenis kelamin
 
-📄 File: `EDA-socialmediaaddiction.ipynb`  
-📂 Data: `Students Social Media Addiction.csv`
+📄 File      : `EDA-socialmediaaddiction.ipynb`  
+
+📂 Data      : `Students Social Media Addiction.csv`
+
+🔗 gcollab   : [https://colab.research.google.com/drive/1Dtl0OkFlsVxV5PEYHGRefIgB0jNA2f56?usp=sharing]
+
+🔗 kaggle    : [https://www.kaggle.com/datasets/pratyushpuri/students-social-media-addiction]
 
 ---
 
