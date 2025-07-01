@@ -67,8 +67,19 @@ elif 40 <= Nilai <= 59:
 else:
     Kategori = "E (Sangat Kurang)"
 
+#Menampilkan data MHS
+print("\nMasukkan nama mahasiswa:", Nama)
+print("Masukkan NIM:", NIM)
+print("Masukkan nilai ujian:", Nilai)
+
+#Menampilkan tipe data
+print("\nNama:", Nama, "(type:", type(Nama),")")
+print("NIM:", NIM, "(type:", type(NIM),")")
+print("Nilai:", Nilai, "(type:", type(Nilai),")")
+  
+
 # Menampilkan hasil input dan hasil evaluasi kategori nilai
-print("Nama:", Nama)
+print("\nNama:", Nama)
 print("NIM:", NIM)
 print("Nilai:", Nilai)
 print("Kategori nilai:", Kategori)
